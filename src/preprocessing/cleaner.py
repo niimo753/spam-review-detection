@@ -16,7 +16,6 @@ import contractions
 import string
 from langdetect import detect
 
-
 class BasicTextCleaning:
     def __init__(self):
         # define some necessary elements
