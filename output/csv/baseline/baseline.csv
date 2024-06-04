@@ -1,0 +1,25 @@
+length_text,ngrams,text_extraction,models,accuracy,f1,roc_auc
+no use,"(1, 3)",Bag of Words,Logistic Regression,0.85163,0.85108,0.93696
+no use,"(1, 2)",Bag of Words,Logistic Regression,0.85051,0.85016,0.9358
+use,"(1, 3)",Bag of Words,Logistic Regression,0.84992,0.84927,0.93585
+use,"(1, 2)",Bag of Words,Logistic Regression,0.84866,0.84829,0.93454
+no use,"(1, 1)",Bag of Words,Logistic Regression,0.83273,0.83382,0.92026
+use,"(1, 1)",Bag of Words,Logistic Regression,0.83142,0.83238,0.91851
+use,"(1, 1)",TF_IDF,Logistic Regression,0.8616936377126304,0.861268610618772,0.9380796925935686
+use,"(1, 2)",TF_IDF,Logistic Regression,0.8933516080886499,0.8924806680743653,0.9602737164456858
+use,"(1, 3)",TF_IDF,Logistic Regression,0.8949345390275756,0.8940636802972737,0.961387207078836
+no use,"(1, 1)",TF_IDF,Logistic Regression,0.858256,0.857967,0.935866
+no use,"(1, 2)",TF_IDF,Logistic Regression,0.888924,0.888328,0.957493
+no use,"(1, 3)",TF_IDF,Logistic Regression,0.890309,0.889736,0.958575
+no use,"(1, 3)",Hashing,Logistic Regression,0.874,0.872,0.974
+no use,"(1, 2)",Hashing,Logistic Regression,0.877,0.875,0.949
+no use,"(1, 1)",Hashing,Logistic Regression,0.854,0.855,0.933
+use,"(1, 1)",Hashing,Logistic Regression,0.853,0.854,0.932
+use,"(1, 2)",Hashing,Logistic Regression,0.876,0.874,0.948
+use,"(1, 3)",Hashing,Logistic Regression,0.873,0.871,0.945
+no use,"(1, 1)",Word2Vec,Logistic Regression,0.8656510308177447,0.8661630975969314,0.9285906274342616
+use,"(1, 1)",Word2Vec,Logistic Regression,0.8668381426192482,0.8671108637789082,0.928975535501086
+no use,"(1, 2)",Word2Vec,Logistic Regression,0.880589502467615,0.8822763755323727,0.940606228094399
+use,"(1, 2)",Word2Vec,Logistic Regression,0.883137045280607,0.8837122724328574,0.943550539939784
+no use,"(1, 3)",Word2Vec,Logistic Regression,0.4992825885181804,0.6649325578736569,0.5502286195608366
+use,"(1, 3)",Word2Vec,Logistic Regression,0.4993073226265158,0.6649210526119045,0.5460673532542433
