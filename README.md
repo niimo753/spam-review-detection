@@ -13,5 +13,5 @@ The dataset utilized in this study pertains to the investigation of fake online 
 2. Tran Thi Ngan Ha - 11211959
 3. Nguyen Thi Minh Ngoc - 11219280
 4. Bui Phuong Thao - 11215341
-<be>
+
 __Instructor: Nguyen Thi Quynh Giang, PhD__
